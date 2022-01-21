@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Coca-cola",
+        "count": "120 ta",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Go'sht",
+        "count": "120 kg",
+        "marketId": 2
+    },
+    {
+        "name": "Sprite",
+        "count": "100 ta",
+        "marketId": 1,
+        "id": 3
+    }
+]

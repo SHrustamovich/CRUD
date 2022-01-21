@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Karzinka Yunusobod",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Karzinka Chilonzor",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "name": "Makro Oqtepa",
+        "marketId": 2
+    },
+    {
+        "id": 4,
+        "name": "Makro ",
+        "marketId": 2
+    },
+    {
+        "name": "karzinka sergli",
+        "marketId": 1,
+        "id": 5
+    },
+    {
+        "name": "karzinka beruni",
+        "marketId": 1,
+        "id": 6
+    }
+]
